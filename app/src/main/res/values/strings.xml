@@ -1,0 +1,31 @@
+<resources>
+    <!--Titulo de la aplicacion  -->
+    <string name="app_name">STOEstacionamiento</string>
+
+    <!--Pantalla de Login y Registro-->
+    <string name="correo">e-mail</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="contrasena_confirmar">Confirmar Contraseña</string>
+    <string name="Iniciar">Iniciar Sesión</string>
+    <string name="Registro">Registrarse</string>
+
+    <!--Pantalla de Menu  -->
+    <string name="Factura">Facturar</string>
+    <string name="Perfil">Perfil</string>
+    <string name="Historial">Historial</string>
+    <string name="Configuracion">Configuración</string>
+
+    <!--Edittext de pantalla de perfil -->
+    <string name="nombreperfil">Nombre</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidoP">Apellido Paterno</string>
+    <string name="apellidoM">Apellido Materno</string>
+    <string name="rfc">RFC</string>
+    <string name="calle_receptor">Nombre de la Calle</string>
+    <string name="cp">Codigo Postal</string>
+    <string name="num_int">Numero Interior</string>
+    <string name="num_ext">Numero Exterior</string>
+    <string name="municipio">Municipio/Delegacion</string>
+    <string name="estado">Estado</string>
+
+</resources>
